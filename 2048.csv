@@ -1,0 +1,6 @@
+EpochNumber,TupleNumber,Stages,StageChangeAt,TileDowngrading,128Percentage,256Percentage,512Percentage,1024Pecentage,2048Percentage,4096Percentage,MeanScore,MaxScore,TimeConsuption,Machine
+10000,4,1,/,No,99.9,98.9,93.8,54,5.9,0,12121,32529,53min28s,Ryzen5600X
+10000,6,1,/,No,99.8,98.9,96.9,84.3,31.3,0.3,19367,60471,1h27min15s,Ryzen5600X
+10000,6,2,1024,No,99.8,99.1,96.2,78,23.4,0.5,17612,57089,2h15min41s,GoogleColab
+10000,6,3,1024;2048,No,99.7,99.2,96.6,78.3,21,0.3,17091,55309,2h09min18s,GoogleColab
+10000,6,1,/,Yes(4096),99.8,98.9,96.9,84.3,31.3,0.3,19367,60471,1h29min22s,Ryzen5600X
